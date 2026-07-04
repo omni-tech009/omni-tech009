@@ -40,7 +40,7 @@ Engineer • AI/ML Aspirant • Technology Explorer
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode" />
 </p>
 
 > More technologies will be added as I learn them.
